@@ -1,7 +1,7 @@
 <h1>System Identifier Management Utility</h1>
 A tool written in C++ that allows for interaction with low-level Windows system identifiers for privacy research and development testing.
 
-<img width="979" height="483" alt="image" src="https://github.com/user-attachments/assets/eb6737dc-df9d-4a98-bd50-978466522f78" />
+<img width="981" height="517" alt="image" src="https://github.com/user-attachments/assets/1f19dd42-3887-4919-b346-2417b90dd517" />
 
 <h1>About The Project</h1>
 This is a utility for Windows that provides an interface for reading and modifying low-level system and hardware identifiers. I created this project to teach myself more about the Windows API and to better understand how software interacts with hardware on a fundamental level.
